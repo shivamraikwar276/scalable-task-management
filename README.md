@@ -1,4 +1,4 @@
-# Scalable Task Manager
+# Scalable Task Manager -> Shivam-Manjhi
 
 A full-stack MERN task manager with JWT authentication and role-based access control (user / admin).
 
