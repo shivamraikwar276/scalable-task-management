@@ -1,7 +1,7 @@
 {
   "name": "scalable-task-manager",
   "version": "1.0.0",
-  "description": "Full-stack MERN task manager with role-based access control",
+  "description": "Full-stack MERN task manager with shivam role-based access control",
   "private": true,
   "scripts": {
     "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend",
